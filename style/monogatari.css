@@ -319,8 +319,6 @@ textarea {
 	text-align: left;
 	position: absolute;
 	bottom: 0;
-	padding-right: 20%;
-	left: 15%;
 	color: rgb(255, 255, 255);
 }
 
@@ -355,7 +353,7 @@ textarea {
 [data-ui="quick-menu"] {
 	top: 0;
 	background: transparent;
-	left: 15%;
+
 	z-index: 3;
 	position: absolute;
 	height: 2.5rem;
