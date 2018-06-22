@@ -113,7 +113,7 @@ let script = {
 	, "gc Liebe Freunde, hiermit lade ich euch zu meinem Geburtstag am Freitag ein. Ich möchte gerne mit euch an den Baggersee zum Grillen und zum Planschen. Für Essen und Getränke ist gesorgt, wir lassen es richtig krachen! Bitte kommt so gegen 16 Uhr. Bringt am besten Badekleidung mit! Ich freue mich sehr auf euer Kommen!"
 	, "f Hallo, danke für die Einladung, aber bitte beachten: Ich darf freitags kein Fleisch essen."
 	, "m Danke für die liebgemeinte Einladung. Leider kann ich nicht kommen. Du weißt doch... Freitags ist immer die Sabbatvorbereitung. Außerdem gehe ich mit meiner Familie in den Gottesdienst und danach sind wir als Familie zusammen und feiern Sabbat."
-	, "a Hey mir geht es so ähnlich wie Melina... ich bin beim Freitagsgebet. Zudem ist Ramadan und meine Familie und ich brechen immer zusammen das Fasten. Danach wird es leider zustpät, da im Sommer doch die Sonne sowieso erst um halb 10 untergeht... Tut mir wirklich leid!"
+	, "a Hey mir geht es so ähnlich wie Melina... ich bin beim Freitagsgebet. Zudem ist Ramadan und meine Familie und ich brechen immer zusammen das Fasten. Danach wird es leider zu spät, da im Sommer doch die Sonne sowieso erst um halb 10 untergeht... Tut mir wirklich leid!"
 	, "e Du bist traurig, dass deine Freunde für Freitag abgesagt haben, willst aber noch nicht aufgeben. Schließlich ist es dein Geburtstag! Überleg dir, wie du auf die Absagen reagierst und wie du deine Feier trotzdem noch steigen lassen könntest. Z.B. indem du Ort, Zeit oder Datum änderst."
 	
 	,"end"
